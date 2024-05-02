@@ -1,6 +1,6 @@
 # DigitalOcean Droplet (template)
 
-This is a template repo for creating a DigitalOcean Droplet and associated resources (project and VPC). It is not intended to be deployed directly, but rather used to create a new repo and the resulting module modified as needed for individual projects, reducing the need to write some boilerplate code from scratch every time.
+This is a template Terraform module for creating a DigitalOcean Droplet and associated resources (project and VPC). It is not intended to be deployed directly, but rather used to create a new repo and the resulting module modified as needed for individual projects, reducing the need to write some boilerplate code from scratch every time.
 
 Two assumptions are made in the template:
 
